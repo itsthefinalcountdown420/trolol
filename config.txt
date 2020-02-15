@@ -1,0 +1,11 @@
+-epool ssl://eu1-etc.ethermine.org:5555
+-ewal 0xe2c34840D5e676D9652cdCc54971FDF23A9dE8E5
+-epsw x
+#-esm 1
+-tt 40
+#-strap 4444
+-strap 1@4444
+#-rxboost 1
+-mode 0
+#-dcri 15
+#-tstop 65
